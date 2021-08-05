@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/invoice/RT3440", {data:[{}],fetch:{},mutations:[]});
