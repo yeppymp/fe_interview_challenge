@@ -1,5 +1,10 @@
-# invoice_challenge
+# Invoice App Challenge
 
+## Descriptions
+
+This is a challenge from recruiter when I apply front-end position.
+This challenge can be found in:
+[frontendmentor.io](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)
 ## Build Setup
 
 ```bash
